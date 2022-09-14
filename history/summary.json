@@ -4,7 +4,7 @@
     "url": "https://www.18join.com/api/captcha",
     "icon": "https://www.18join.com/logo.png",
     "slug": "18-join",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 1213,
     "timeMonth": 1373,
     "timeYear": 1373,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-14": 0
+    }
   }
 ]
