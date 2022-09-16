@@ -5,18 +5,17 @@
     "icon": "https://www.18join.com/logo.png",
     "slug": "18-join",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 2075,
-    "timeDay": 4605,
-    "timeWeek": 2762,
-    "timeMonth": 2075,
-    "timeYear": 2075,
+    "uptime": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 2028,
+    "timeDay": 954,
+    "timeWeek": 2731,
+    "timeMonth": 2028,
+    "timeYear": 2028,
     "dailyMinutesDown": {
-      "2022-09-15": 9,
       "2022-09-14": 22
     }
   }
