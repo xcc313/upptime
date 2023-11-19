@@ -6,7 +6,7 @@
     "slug": "18-join",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "98.71%",
+    "uptimeDay": "98.84%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.60%",
@@ -16,6 +16,7 @@
     "timeMonth": 1666,
     "timeYear": 1726,
     "dailyMinutesDown": {
+      "2023-11-19": 0,
       "2023-11-18": 19,
       "2023-10-30": 41,
       "2023-10-13": 48,
