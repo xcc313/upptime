@@ -1,7 +1,7 @@
 url: https://www.18join.com/api/captcha
-status: up
-code: 200
-responseTime: 1319
-lastUpdated: 2024-11-04T23:07:14.473Z
+status: down
+code: 502
+responseTime: 1242
+lastUpdated: 2024-11-05T04:47:39.455Z
 startTime: 2022-08-29T03:51:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
