@@ -5,16 +5,16 @@
     "icon": "https://www.18join.com/logo.png",
     "slug": "18-join",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1321,
-    "timeDay": 1327,
-    "timeWeek": 1274,
-    "timeMonth": 1261,
-    "timeYear": 1307,
+    "timeDay": 1290,
+    "timeWeek": 1242,
+    "timeMonth": 1270,
+    "timeYear": 1306,
     "dailyMinutesDown": {
       "2025-08-19": 68
     }
